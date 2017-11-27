@@ -4,7 +4,7 @@
     <!-- Tell the browser to be responsive to screen width -->
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
 
-    <title>Akaunting</title>
+    <title>Accounting</title>
 
     <!-- Bootstrap 3.3.6 -->
     <link rel="stylesheet" href="{{ asset('vendor/almasaeed2010/adminlte/bootstrap/css/bootstrap.min.css') }}">
@@ -19,7 +19,7 @@
     <!-- App style -->
     <link rel="stylesheet" href="{{ asset('public/css/install.css') }}">
     <link rel="stylesheet" href="{{ asset('public/css/akaunting-green.css') }}">
-    
+
     <link rel="shortcut icon" href="{{ asset('public/img/favicon.ico') }}">
 
     @stack('css')
